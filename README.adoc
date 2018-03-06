@@ -1,3 +1,4 @@
+##Comment
 = devonfw Angular CLI + Spring Boot Project Seed
 
 This is a project seed for Single Page Applications (SPAa) built on top of https://projects.spring.io/spring-boot[Spring Boot] and
